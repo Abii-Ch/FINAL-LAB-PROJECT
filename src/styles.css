@@ -1,13 +1,4 @@
-@import url('https://fonts.googleapis.com/css?famly=Open+Sans&display=swap');
-*{
-    box-sizing: border-box;
-}
-body{
-    margin: 0;
-    font-family: Quicksand, sans-serif;
-    font-size: 18px;
-}
-a{
-    text-decoration: none;
-}
-
+body {
+    padding-top: 3.5rem;
+    font-family: "Roboto", sans-serif;
+  }
